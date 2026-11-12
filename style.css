@@ -1,0 +1,16 @@
+@media(max-width:768px){
+
+nav {
+    display:flex;
+    flex-direction:column;
+}
+
+.card{
+    margin:10px 0;
+}
+
+section{
+    padding:20px;
+}
+
+}
